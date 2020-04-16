@@ -1,0 +1,9 @@
+{
+  "name": "lerna-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:stormwild/lerna-sample.git",
+  "author": "Alexander R. Torrijos <artorrijos@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
